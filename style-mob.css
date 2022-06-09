@@ -1,0 +1,111 @@
+@media only screen and (max-width: 768px) {
+    header div.topo {
+        width: 780px;
+    }
+    ul.menu li {
+        margin-right: 26px;
+        font-size: 18px;
+    }
+    body div.text-principal h4{
+        display: none;
+    }
+    body div.sobre-min h1 {
+        top: -288px;
+        width: 16cm;
+        left: 90px;
+    }
+    body div.text-principal h2 {
+        width: 18cm;
+    }
+    body div.sobre-min{
+        display: inline-block;
+    }
+    body div.sobre-min img{
+        margin: 0;
+        width: 16cm;
+        bottom: 280px;
+        left: 91px;
+    }
+    body div#arrumar-projetos {
+        display: flex;
+        width: 19cm;
+    }
+    footer div.rodape{
+        width: 375px;
+        top: 48cm;
+        height: 5cm;
+    }
+    footer div.contact-gmail{
+        left: -159px;
+        top: 102px;
+    }
+    footer div.contact-number h2 {
+        width: 5cm;
+    }
+    footer div.contatos {
+        width: 1px;
+    }
+    body div.projeto {
+        width: 325px;
+        margin-top: 1cm;
+    }
+    footer div.contact-gmail {
+        left: 282px;
+        top: 0px;
+    }
+    footer div.rodape {
+        width: 780px;
+        top: 38cm;
+        height: 2cm;
+    }
+}
+@media only screen and (max-width: 480px) {
+    header div.topo {
+        width: 375px;
+    }
+    ul.menu li {
+        margin-right: 26px;
+        font-size: 18px;
+    }
+    body div.text-principal h4{
+        display: none;
+    }
+    body div.sobre-min h1 {
+        top: -202px;
+        width: 9cm;
+        left: 12px;
+    }
+    body div.text-principal h2{
+        width: 8cm;
+    }
+    body div.sobre-min{
+        display: inline-block;
+    }
+    body div.sobre-min img{
+        margin: 11px;
+        width: 8cm;
+    }
+    body div#arrumar-projetos {
+        display: inline-block;
+        width: 1px;
+    }    
+    footer div.rodape{
+        width: 375px;
+        top: 48cm;
+        height: 5cm;
+    }
+    footer div.contact-gmail{
+        left: -159px;
+        top: 102px;
+    }
+    footer div.contact-number h2 {
+        width: 5cm;
+    }
+    footer div.contatos {
+        width: 1px;
+    }
+    body div.projeto {
+        width: 325px;
+        margin-top: 1cm;
+    }
+}
